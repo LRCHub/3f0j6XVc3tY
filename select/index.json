@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あこがれステッチ",
+  "base_artist": "佐々木千枝 (CV: 今井麻夏)",
+  "createdAt": "2026-03-01T01:49:05.989779Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あこがれステッチ",
+      "artist": "佐々木千枝 (今井麻夏)",
+      "has_synced": false,
+      "path": "select/pl_01_あこがれステッチ_佐々木千枝_(今井麻夏).txt"
+    }
+  ]
+}
